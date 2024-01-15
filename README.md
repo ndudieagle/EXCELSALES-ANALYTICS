@@ -4,7 +4,7 @@
 **Project objective:** 
 **1.** Create a _[customer performance report]https://github.com/ndudieagle/EXCELSALES-ANALYTICS/blob/main/Customer%20Performance%20Report.pdf
 
- **2.** Conduct an ideal  comparison between _[market performance and sales targets]
+ **2.** Conduct an ideal  comparison between _[market performance and sales targets]https://github.com/ndudieagle/EXCELSALES-ANALYTICS/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
 
  - **Purpose of sales analytics:**Enable businesses to oversee and assess their sales activities and performance.
 
