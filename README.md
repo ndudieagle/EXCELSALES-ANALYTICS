@@ -17,7 +17,7 @@
 - **Project goals:**
 - 1. Generate Profit and Loss (P&L) reports categorized by Fiscal Year & Months(https://github.com/ndudieagle/EXCELSALES-ANALYTICS/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & https://github.com/ndudieagle/EXCELSALES-ANALYTICS/blob/main/P%26L%20Statement%20by%20Months.pdf
 
-2. Create Profit and Loss (P&L) reports segmented by Marketshttps://github.com/ndudieagle/EXCELSALES-ANALYTICS/blob/main/P%26L%20Statement%20by%20Markets.pdf
+2. Create Profit and Loss (P&L) reports segmented by Markets https://github.com/ndudieagle/EXCELSALES-ANALYTICS/blob/main/P%26L%20Statement%20by%20Markets.pdf
 
 Objective of Sales Analytics: Evaluate financial performance, aid decision-making, and enhance communication with stakeholders.
 
